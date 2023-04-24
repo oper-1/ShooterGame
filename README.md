@@ -1,2 +1,2 @@
 # ShooterGame
-It small game about big gun and danger
+It`s small game about big gun and danger
